@@ -1,0 +1,116 @@
+1.
+Skills and Software Knowledge: Required: Proficient in HTML/HTML5, CSS/CSS3, JavaScript/JQuery, PHP, MySQL, Adobe Photoshop, FTP
+2.
+3-5 years professional development experience
+Expert knowledge of PHP, C#, Node.js, and/or Java
+Expert knowledge of HTML, CSS, and Javascript
+Expert knowledge of client-side optimization techniques
+Expert understanding of the latest and legacy browser capabilities, including mobile
+Fluent understanding of object-oriented programming techniques
+Functional knowledge of content management and eCommerce solutions such as WordPress, Drupal, Expression Engine, and Magento
+Functional knowledge of version control (GIT)
+Functional knowledge of Linux, UNIX, and Apache/Nginx
+Familiarity with UNIX terminal commands
+Strong oral and written communication skills with both teams and clients
+Existing agency experience
+Bachelor’s degree in a related field
+3.
+Requirements:
+
+Must Currently Reside in Orlando, FL area (In-House position, Non-Remote)
+HTML5 and CSS3 proficiency (2+ Years’ Experience)
+JavaScript, jQuery, and AJAX proficiency (2+ Years’ Experience)
+WordPress Loop and WordPress theme layout proficiency
+CSS pre-processing (LESS and/or SASS) proficiency
+FTP and SSH protocol proficiency
+PHP (basic conditionals and WordPress-related methods/classes)
+Positive attitude with a thirst for learning cutting-edge technologies and frameworks
+Aptitude to quickly learn new systems with little or no documentation
+Ability to thrive in a fast-paced team environment and meet deadlines
+An online portfolio of your web work
+Experience Preferred (Nice to Have, Not Required):
+
+UX/UI principles
+SEO principles
+MySQL proficiency
+Git (code versioning)
+Command Line/Bash
+Modern JS MVC Frameworks (Vue/Angular/React)
+Photoshop
+BS Degree
+4.
+3+ years of web development, including expertise in HTML, CSS, AJAX, JavaScript and libraries like JQuery and JQueryUI • 2-4 years of experience with server-side scripting PHP • 2-4 years of experience with server-side scripting Node JS • 2-4 years of experience with Angular or similar JavaScript framework • Experience with responsive / adaptive design for mobile web development • Experience with performance tuning of web applications • Experience writing technical specifications and driving them through development • Ability to develop and implement high-quality code in a timely manner is essential • Effective verbal and written communication skills with both technical and non-technical audiences • Ability to thrive in a dynamic, collaborative and fast paced environment • Strong interpersonal skills as well as strong problem-solving and analytical skills • Attention to detail SPECIFIC SKILLS REQUIRED • Deep knowledge of standards-based HTML, CSS and JavaScript • Knowledge of server-side scripting language and framework, for example Zend for PHP • Proven ability to work with all members of a technical project team • Experience drafting requirements and functional specifications • A win-win approach and the ability to work well as part of a broader team • Ability to effectively communicate across a broad range of stakeholders, including customers, QA, operations, engineering, management, etc. • A strong appreciation of the Disney brand and the importance of story Software Solution Design, Software Development and Testing 524226
+5.
+Html - Html5 and CSS 3.0, Bootstrap and mobile responsive CSS media queries (Most Important)
+WordPress – Building Custom WordPress Themes
+WordPress – working with Market themes, visual composer, fusion builder, cornerstone and all other website visual builder tools that come with market themes
+WordPress – Plugin Management, website updates and API Keying system by Envato and other premium plugin builders
+WordPress – Ability to use Custom Post Types within our custom WordPress themes.
+Html email - Coding and awareness about the behavior of different email clients to be able to code a robust html email that doesn’t fail on various platforms
+Adobe - Intermediate to advance knowledge of Adobe Photoshop and Adobe Illustrator to be able to better execute imaging used in the websites.
+Microsoft Office (Outlook, Word, PowerPoint, Excel)
+6.
+Minimum two (2) years developing web sites using PHP or Perl
+Minimum one (1) years experience working with PHP-based CMS platforms
+Understanding of Drupal theming and module development
+Proficient in coding PHP, HTML5, HTML, CSS, JavaScript/jQuery, Node.js, JSON, XML, Git
+Ability to integrate into a large agile development project and manage rapid development cycles
+Must be self-motivated and able to work well both independently and as part of a team.
+Ability to clearly communicate ideas and status updates to both technical and non-technical resources
+Enjoy working in a fast-paced environment
+Committed to quality in every assignment, large or small
+Must be willing to work in Orlando, Fl
+Must be willing to submit to a background investigation
+Must have unrestricted work authorization to work in the United States
+7.
+Requirements
+
+At least three years experience with front-end engineering, web development, web engineering, or a similar field.
+Strong understanding of HTML and CSS (Sass) including cross-browser compatibility and accessibility implications.
+Ability to write front-end JavaScript to enhance the user experience and integrate with APIs.
+Code portfolio. Link us to your GitHub account, upload a .zip, or both (original files are helpful to get a sense of your PHP code structure and file organization).
+Proven ability to transform a static comp into a website from the ground up.
+Being collaborative, self-motivated, and an "always-learning" person, excited to create great web experiences.
+Basic understanding of ad implementations both on desktop and mobile.
+Good to Have
+
+Experience with coding PHP, specifically for WordPress as a platform, including custom post types, taxonomies, and use of WordPress beyond typical “blog” use cases.
+Experience with a JavaScript MVC-style framework (E.g. Backbone.js).
+Experience with living style guides, atomic design, or component-based design.
+Experience with Sketch and/or Adobe Creative Suite.
+Design experience or formal design education.
+Remote working experience appreciated.
+8.
+BA/BS degree (or equivalent practical experience)
+PHP 'full stack” development (PHP/HTML/CSS/JavaScript; front-end/back-end)
+All qualifying experience using a modern PHP development framework (e.g. Symfony)
+All qualifying experience in a DevOps team setting using a Scrum Agile methodology
+All qualifying experience in a test-driven/behaviour-driven development environment (preferably w/ a common PHP unit testing framework (e.g. PHPUnit, Behat)
+Understanding of domain-driven design (DDD) and object-oriented analysis and design (OOAD) concepts and workflows
+Solid experience w/ software deployment, Continuous Integration (CI), and Continuous Delivery (CD) concepts, applications, and tools (e.g. Bamboo, CodeDeploy, CodePipeline, Vagrant, Docker, Jenkins)
+Understanding of fundamental cloud computing architectural concepts, especially with regard to reliability and scalability (e.g. multi-regional/multi-AZ, elasticity, auto-scaling)
+Expertise in advanced, non-linear revision control workflows; fluent in Git version control
+Writing extensive unit tests using automated TDD tasks
+9.
+Requirements:
+Skills & Requirements 
+Strong background in Javascript.
+Experience with ES2015 and TypeScript 2.x.
+Experience with Angular 2/4/x.
+Experience with preprocessors and front-end tooling workflows: Node.js, SASS, SystemJS, SystemJS Builder.
+Strong understanding of debugging / profiling for the browser.
+Experience testing Javascript Code.
+Experience with data integration / understanding RESTful API design.
+Full Stack awareness - but this role is front-end based.
+Strong team, vendor and customer relations skills.
+Strong communication skills.
+GIT / BitBucket / GitHub
+Experience maintaining and extending a style guide for scalability and cross-application usage.
+10.
+Proven work experience as a Front-End Web developer with code examples for review
+Hands on experience with markup languages (e.g. HTML5, CSS3, JavaScript, jQuery etc.)
+Experience with Bootstrap, LESS, SASS, and Grunt npm or similar compiler
+Strong understanding of browser testing and debugging
+In-depth understanding of the entire web development process (design, development and deployment)
+Familiarity working with a variety of CMS
+Strong organizational and time management skills to juggle multiple tasks within the constraints of timelines
